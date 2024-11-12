@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//求出100以内的素数；
 #include <math.h>
 int main ()
 {
